@@ -12,7 +12,9 @@ public class max_of_array {
             if (arr[i] > max) {
                 max = arr[i];
             }
-            System.out.println(max);
+
+
+            System.out.println("the max is " + max);
         }
     }
 }
