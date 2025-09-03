@@ -5,7 +5,7 @@ public class Min_Element {
         System.out.println("Enter the size of the array: ");
         int n=sc.nextInt();
         int[] arr= new int[n];
-        System.out.println("Enter the elements of the array: ");
+        System.out.print("Enter the elements of the array: ");
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
@@ -13,6 +13,6 @@ public class Min_Element {
         for (int i = 0; i <arr.length ; i++) {
             if(arr[i]<min){ min = arr[i];}
         }
-        System.out.println("Min element is: "+min);
+        System.out.print("Min element is: "+min + " ");
     }
 }
