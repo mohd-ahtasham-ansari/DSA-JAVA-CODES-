@@ -9,7 +9,7 @@ public class arrayindexoperation {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.print("the original array is: ");
+        System.out.println("the original array is: ");
         for (int i = 0; i < n; i++) {
         System.out.println(arr[i]);
         }
