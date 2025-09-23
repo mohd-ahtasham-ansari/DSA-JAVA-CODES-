@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayListBasicsofJava {
     public static void main(String[] args) {
@@ -21,5 +22,15 @@ public class ArrayListBasicsofJava {
         for (int i = 0; i <arr.size() ; i++) {
             System.out.print(arr.get(i)+" ");
         }
+
+        //insert any elemet in between the arraylist
+        arr.add(2,100);
+        System.out.println(arr);
+        arr.remove(2);
+        System.out.println(arr);
+
+        System.out.println("reverse arraylist using collection.reverse()");
+        Collections.reverse(arr);
+
     }
 }
