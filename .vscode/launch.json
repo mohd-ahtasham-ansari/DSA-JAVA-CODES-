@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "checkIfSorted",
+            "request": "launch",
+            "mainClass": "checkIfSorted",
+            "projectName": "JAVA DSA_c422f8e3"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
