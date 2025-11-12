@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "JAVA DSA_c422f8e3"
+        },
+        {
+            "type": "java",
             "name": "CheckIfSorted",
             "request": "launch",
             "mainClass": "CheckIfSorted",
