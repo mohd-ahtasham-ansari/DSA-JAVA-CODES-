@@ -31,3 +31,15 @@ Practice DSA in Java regularly and keep track of my progress.
 ## Author
 Mohd Ahtasham Ansari  
 B.Tech AI/ML | Learning DSA in Java
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
