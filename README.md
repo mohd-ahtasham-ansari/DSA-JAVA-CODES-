@@ -38,8 +38,13 @@ B.Tech AI/ML | Learning DSA in Java
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
