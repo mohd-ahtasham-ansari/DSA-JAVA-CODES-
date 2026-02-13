@@ -39,6 +39,7 @@ B.Tech AI/ML | Learning DSA in Java
 | ------- |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
+| [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -53,4 +54,8 @@ B.Tech AI/ML | Learning DSA in Java
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
