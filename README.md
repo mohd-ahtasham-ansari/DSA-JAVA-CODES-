@@ -37,6 +37,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
@@ -58,4 +59,8 @@ B.Tech AI/ML | Learning DSA in Java
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
