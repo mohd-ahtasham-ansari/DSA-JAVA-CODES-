@@ -42,6 +42,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 | Problem Name | Difficulty |
