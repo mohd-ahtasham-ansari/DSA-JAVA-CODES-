@@ -45,6 +45,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
@@ -75,6 +76,7 @@ B.Tech AI/ML | Learning DSA in Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -94,4 +96,12 @@ B.Tech AI/ML | Learning DSA in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
