@@ -38,6 +38,7 @@ B.Tech AI/ML | Learning DSA in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
@@ -68,6 +69,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -99,6 +101,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
