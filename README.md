@@ -45,6 +45,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
@@ -74,6 +75,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -107,6 +109,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
