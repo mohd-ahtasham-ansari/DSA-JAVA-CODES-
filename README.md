@@ -35,8 +35,8 @@ B.Tech AI/ML | Learning DSA in Java
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
@@ -57,23 +57,23 @@ B.Tech AI/ML | Learning DSA in Java
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
@@ -81,60 +81,60 @@ B.Tech AI/ML | Learning DSA in Java
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
