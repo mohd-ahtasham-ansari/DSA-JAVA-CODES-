@@ -41,6 +41,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
@@ -66,6 +67,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0035-search-insert-position/) | Easy |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
