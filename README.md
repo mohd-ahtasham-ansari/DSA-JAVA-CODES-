@@ -48,6 +48,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -71,6 +72,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0033-search-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
