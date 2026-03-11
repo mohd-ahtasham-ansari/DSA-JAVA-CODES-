@@ -53,6 +53,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
@@ -73,6 +74,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
