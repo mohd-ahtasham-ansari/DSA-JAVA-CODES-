@@ -149,4 +149,12 @@ B.Tech AI/ML | Learning DSA in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
