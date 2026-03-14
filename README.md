@@ -65,6 +65,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
@@ -161,6 +162,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
