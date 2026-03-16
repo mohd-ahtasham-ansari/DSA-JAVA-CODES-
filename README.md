@@ -48,6 +48,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0054-spiral-matrix](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
@@ -163,10 +164,15 @@ B.Tech AI/ML | Learning DSA in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
