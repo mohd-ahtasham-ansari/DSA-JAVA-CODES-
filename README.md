@@ -53,6 +53,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
@@ -165,6 +166,7 @@ B.Tech AI/ML | Learning DSA in Java
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
