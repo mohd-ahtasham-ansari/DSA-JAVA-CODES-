@@ -62,6 +62,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
@@ -82,6 +83,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
