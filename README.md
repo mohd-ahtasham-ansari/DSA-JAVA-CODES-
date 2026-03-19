@@ -56,6 +56,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0136-single-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0204-count-primes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
@@ -71,6 +72,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -179,4 +181,12 @@ B.Tech AI/ML | Learning DSA in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0078-subsets/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
