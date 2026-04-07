@@ -98,6 +98,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -106,6 +107,7 @@ B.Tech AI/ML | Learning DSA in Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
@@ -194,6 +196,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
