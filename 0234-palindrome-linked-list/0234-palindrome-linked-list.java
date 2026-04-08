@@ -1,22 +1,22 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
 
-        // ✅ Fix 1: correct edge case
+        
         if (head == null || head.next == null) return true;
 
         ListNode slow = head;
         ListNode fast = head;
 
-        // Find middle
+ 
         while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // Reverse second half
+      
         ListNode rightHalf = reverse(slow.next);
 
-        // Start comparing
+       
         ListNode leftHalf = head;
 
         while (rightHalf != null) {
@@ -24,7 +24,7 @@ class Solution {
                 return false;
             }
 
-            // Move both
+           
             rightHalf = rightHalf.next;
             leftHalf = leftHalf.next;
         }
