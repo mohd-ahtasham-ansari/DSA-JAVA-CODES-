@@ -100,6 +100,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -169,6 +170,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ B.Tech AI/ML | Learning DSA in Java
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,5 +204,6 @@ B.Tech AI/ML | Learning DSA in Java
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
