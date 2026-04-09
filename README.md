@@ -104,6 +104,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -209,4 +210,5 @@ B.Tech AI/ML | Learning DSA in Java
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
