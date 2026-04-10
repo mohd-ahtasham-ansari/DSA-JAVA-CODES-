@@ -101,6 +101,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -113,6 +114,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0128-longest-consecutive-sequence](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
@@ -206,6 +208,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0328-odd-even-linked-list/) | Medium |
