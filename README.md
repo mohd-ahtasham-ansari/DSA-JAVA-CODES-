@@ -69,6 +69,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0066-plus-one) |
@@ -187,6 +188,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -205,6 +207,7 @@ B.Tech AI/ML | Learning DSA in Java
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
