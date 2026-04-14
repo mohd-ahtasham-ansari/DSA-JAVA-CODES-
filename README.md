@@ -99,6 +99,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -211,6 +212,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0002-add-two-numbers](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
