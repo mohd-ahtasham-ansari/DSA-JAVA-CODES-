@@ -56,6 +56,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0136-single-number](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0035-search-insert-position](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0493-reverse-pairs](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0792-binary-search) |
@@ -106,6 +108,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0141-linked-list-cycle](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0876-middle-of-the-linked-list/) | Easy |
