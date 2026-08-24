@@ -8,12 +8,12 @@ class Solution {
                 j++;
                 continue;
             }
-            else if(nums[j]!=nums[j-1]){
+            
                 nums[i+1]=nums[j];
                 i++;
                 j++;
                 count++;
-            }
+            
         }return count;
     }
 }
