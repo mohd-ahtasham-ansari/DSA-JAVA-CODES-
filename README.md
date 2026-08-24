@@ -40,6 +40,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0001-two-sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -102,6 +103,7 @@ B.Tech AI/ML | Learning DSA in Java
 | [0015-3sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mohd-ahtasham-ansari/DSA-JAVA-CODES-/tree/main/0088-merge-sorted-array/) | Easy |
